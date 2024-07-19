@@ -1,5 +1,5 @@
-const startGame = document.querySelector("#formSelector");
-startGame.addEventListener("submit", playRound);
+//const startGame = document.querySelector("#formSelector");
+//startGame.addEventListener("submit", playRound);
 
 class Player {
   constructor(name) {
