@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-This project is a simple command-line implementation of the classic game "Rock, Paper, Scissors."
+This project is a simple implementation of the classic game "Rock, Paper, Scissors."
 The game allows a human player to compete against a computer player over a specified number of rounds.
 
 ## Game Rules
